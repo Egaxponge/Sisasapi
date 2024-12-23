@@ -172,11 +172,11 @@
                         <div id="owl-sep-1" class="owl-carousel owl-theme">
                             <div class="item">
                                 <div class="quote">
-                                    <p class="lead">"DepresiCheck adalah situs yang membantu mahasiswa akhir mengukur
-                                        tingkat depresi mereka dengan mengisi formulir pertanyaan. Kami percaya bahwa
-                                        mengetahui tingkat depresi Anda adalah langkah pertama dalam menemukan solusi
+                                    <p class="lead">"Diagnosa Penyakit Sapi adalah situs yang membantu Peternak mengecek penakit
+                                        hewan ternak mereka dengan mengisi formulir pertanyaan. Kami percaya bahwa
+                                        mengetahui penyakt sapi Anda adalah langkah pertama dalam menemukan solusi
                                         dan menangani masalah ini. Selain itu, kami juga menyediakan informasi dan
-                                        sumber daya yang berguna untuk membantu Anda dalam mengelola depresi Anda."</p>
+                                        sumber daya yang berguna untuk membantu Anda dalam mengelola Penyakit hewwan sapi Anda."</p>
                                     <h6>
                                         <h6>&rarr;</h6>
                                     </h6>
@@ -273,7 +273,7 @@
                             <h2 class="mb-0">
                                 <button class="btn btn-link" type="button" data-toggle="collapse"
                                     data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Apa itu DepresiCheck?
+                                    Apa itu Diagnosa Penyakit Sapi?
                                 </button>
                             </h2>
                         </div>
@@ -281,9 +281,9 @@
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                             data-parent="#faqAccordion">
                             <div class="card-body">
-                                DepresiCheck adalah sebuah situs yang membantu mahasiswa akhir mengukur tingkat depresi
+                                Diagnosa Penyakit Sapi adalah sebuah situs yang membantu Peternak mendiagnosa penyakit hewan sapi
                                 mereka dengan mengisi formulir pertanyaan. Kami menyediakan solusi sesuai setelah
-                                mahasiswa mengisi formulir tersebut.
+                                Peternak mengisi formulir tersebut.
                             </div>
                         </div>
                     </div>
@@ -292,15 +292,15 @@
                             <h2 class="mb-0">
                                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                     data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Siapa yang bisa mengakses DepresiCheck?
+                                    Siapa yang bisa mengakses Diagonsa Penyakit sapi?
                                 </button>
                             </h2>
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                             data-parent="#faqAccordion">
                             <div class="card-body">
-                                DepresiCheck ditujukan untuk mahasiswa akhir, namun siapa saja dapat mengakses situs ini
-                                dan mengisi formulir untuk mengetahui tingkat depresi mereka.
+                                Diagnosa penyakit sapi ditunjukan pada peternak Sapi, namun siapa saja dapat mengakses situs ini
+                                dan mengisi formulir untuk mengetahui kondisi hewan ternak mereka.
                             </div>
                         </div>
                     </div>
@@ -309,16 +309,16 @@
                             <h2 class="mb-0">
                                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                     data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Apakah hasil dari DepresiCheck dapat diandalkan?
+                                    Apakah hasil dari Diagnosa Penyakit Hewan Sapi dapat diandalkan?
                                 </button>
                             </h2>
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                             data-parent="#faqAccordion">
                             <div class="card-body">
-                                Hasil dari DepresiCheck adalah sebuah estimasi dari tingkat depresi seseorang, dan tidak
-                                bisa dianggap sebagai diagnosis yang pasti. Kami sangat menyarankan agar seseorang yang
-                                merasa memiliki tingkat depresi yang tinggi untuk segera meminta bantuan profesional.
+                                Hasil dari Diagnosa Penyakit Sapi adalah sebuah estimasi dari analisis seseorang, dan tidak
+                                bisa dianggap sebagai diagnosis yang pasti. Kami sangat menyarankan agar hewan ternak yang
+                                merasa memiliki tingkat penyakit yang parah untuk segera meminta bantuan profesional.
                             </div>
                         </div>
                     </div>
@@ -327,16 +327,15 @@
                             <h2 class="mb-0">
                                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                     data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    Bagaimana cara mengakses solusi yang ditawarkan DepresiCheck?
+                                    Bagaimana cara mengakses solusi yang ditawarkan Diagnosa Penyakit Hewan Sapi?
                                 </button>
                             </h2>
                         </div>
                         <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                             data-parent="#faqAccordion">
                             <div class="card-body">
-                                Setelah mengisi formulir, mahasiswa akan menerima rekomendasi solusi sesuai dengan
-                                tingkat depresi yang terdeteksi. Kami juga menyediakan tautan ke sumber informasi dan
-                                bantuan profesional yang dapat membantu mahasiswa mengatasi depresi mereka.
+                                Setelah mengisi formulir, peternak akan menerima hasil diagnosa penyakit sesuai dengan
+                                form pertanyaan yang diisi. 
                             </div>
                         </div>
                     </div>
